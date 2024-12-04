@@ -100,4 +100,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 - Special thanks to all contributors
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by Pat
