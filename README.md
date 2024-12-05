@@ -4,21 +4,21 @@
 
 ## Overview
 
-QuizForge AI is an elegant Streamlit application that automatically generates custom multiple-choice quizzes from your documents using Google's Gemini AI. Perfect for educators, students, and professionals who want to create engaging assessment materials quickly and efficiently.
+QuizForge AI is a streamlined Streamlit application that automatically generates custom multiple-choice quizzes from your documents using Google's Gemini AI. Perfect for educators, students, and professionals who want to create engaging assessment materials quickly and efficiently.
 
 ## ✨ Features
 
-- 📚 Support for multiple file formats:
+- **📚 Support for Multiple File Formats:**
   - Documents (TXT, DOC, DOCX, PDF)
   - Code files (Python, Java, C++, HTML, etc.)
   - Spreadsheets (CSV, TSV, XLS, XLSX)
 
-- 🎯 Customizable quiz generation:
+- **🎯 Customizable Quiz Generation:**
   - Multiple difficulty levels (Easy, Normal, Hard, Insane)
   - Flexible quiz lengths (5-30 questions)
   - Intelligent question generation using Gemini AI
-  
-- 📊 Rich quiz experience:
+
+- **📊 Rich Quiz Experience:**
   - Interactive multiple-choice interface
   - Instant scoring and feedback
   - Detailed explanations for each answer
