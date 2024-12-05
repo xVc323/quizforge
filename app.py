@@ -190,7 +190,7 @@ def get_api_key():
         ### Quick Setup Guide:
         1. Visit [Google AI Studio](https://aistudio.google.com/apikey)
         2. Sign in with your Google Account (any Google account works, even new ones)
-        3. Click the "Get API Key" button at the top left
+        3. Click the "[Get API Key](https://aistudio.google.com/apikey)" button at the top left
         4. Create a new API key
         5. Paste the key above into the input field
         
